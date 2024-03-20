@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.form-item-box {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.form-name {
+  margin: 0 10px; /* Adjust the margin as needed */
+}
+.custom-input {
+  border: none;
+  border-bottom: 1px solid #ccc; /* Adding only bottom border */
+  border-radius: 0; /* Optional: Ensure no rounded corners */
+}
